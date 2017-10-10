@@ -1,0 +1,403 @@
+@media (min-width: 992px) and (max-width: 1200px) {
+    html, body {
+        font-size: calc(1.3vw);
+    }
+    .base-left-section-ident {
+        padding-left: 11.247rem;
+    }
+    .section-about-us {
+        padding-left: 11.247rem;
+        padding-right: 11.247rem;
+        margin-bottom: 3rem;
+    }
+    .banner-content {
+        padding-left: 11.247rem;
+    }
+    .title {
+        padding-top: 13.132rem;
+    }
+    .box-grid {
+        width: 63.459rem;
+        height: 11.879rem;
+    }
+    .box-grid-large {
+        width: 68.375rem;
+        height: 11.879rem;
+    }
+    .box {
+        padding: 1.78rem 0 3.739rem 1.424rem;
+    }
+    .box-title {
+        margin-bottom: 0.711rem;
+    }
+    .box-description {
+        width: 11.221rem;
+        height: 3.845rem;
+        overflow-y: hidden;
+        overflow-x: hidden;
+    }
+    .box-description-large {
+        width: 19.229rem;
+    }
+    .box-link {
+        bottom: 1.78rem;
+        left: 1.424rem;
+        background-size: 0.640rem;
+    }
+    .section-details {
+        padding: 3.845rem 11.247rem 6.409rem 11.247rem;
+    }
+    .second-banner-content {
+        padding: 0 0 5.554rem 0;
+        margin-left: 11.247rem;
+        width: 27.025rem;
+    }
+    .reasons-block-title {
+        padding: 4.451rem 0 1.78rem 11.247rem;
+    }
+    .reasons-content-box {
+        padding: 0 11.247rem 5.342rem 11.247rem;
+    }
+    .rates {
+        padding: 3.561rem 11.247rem 5.164rem 11.247rem;
+    }
+    .textbox {
+        padding: 0 0 0 0.531rem;
+        width: 14.249rem;
+        height: 2.136rem;
+    }
+    .textbox-submit-button {
+        width: 2.492rem;
+        height: 2.136rem;
+        background-size: 1.067rem;
+    }
+    .textbox-description {
+        padding-top: 0.711rem;
+        width: 13.180rem;
+    }
+    .footer-first-section {
+        padding: 4.274rem 11.247rem 0.853rem 11.247rem;
+    }
+    .footer-links {
+        padding: 0.996rem 34.698rem 4.986rem 11.247rem;
+    }
+}
+@media (min-width: 768px) and (max-width: 996px) {
+    html, body {
+        font-size: calc(1.3vw);
+    }
+    .base-left-section-ident {
+        padding-left: 11.247rem;
+    }
+    .section-about-us {
+        padding-left: 11.247rem;
+        padding-right: 11.247rem;
+        margin-bottom: 3rem;
+    }
+    .banner-content {
+        padding-left: 11.247rem;
+    }
+    .title {
+        padding-top: 13.132rem;
+    }
+    .box-grid {
+        width: 63.459rem;
+        height: 11.879rem;
+    }
+    .box-grid-large {
+        width: 68.375rem;
+        height: 11.879rem;
+    }
+    .box {
+        padding: 1.78rem 0 3.739rem 1.424rem;
+    }
+    .box-title {
+        margin-bottom: 0.711rem;
+    }
+    .box-description {
+        width: 11.221rem;
+        height: 3.845rem;
+        overflow-y: hidden;
+        overflow-x: hidden;
+    }
+    .box-description-large {
+        width: 19.229rem;
+    }
+    .box-link {
+        bottom: 1.78rem;
+        left: 1.424rem;
+        background-size: 0.640rem;
+    }
+    .section-details {
+        padding: 3.845rem 11.247rem 6.409rem 11.247rem;
+    }
+    .second-banner-content {
+        padding: 0 0 5.554rem 0;
+        margin-left: 11.247rem;
+        width: 27.025rem;
+    }
+    .reasons-block-title {
+        padding: 4.451rem 0 1.78rem 11.247rem;
+    }
+    .reasons-content-box {
+        padding: 0 11.247rem 5.342rem 11.247rem;
+    }
+    .rates {
+        padding: 3.561rem 11.247rem 5.164rem 11.247rem;
+    }
+    .textbox {
+        padding: 0 0 0 0.531rem;
+        width: 14.249rem;
+        height: 2.136rem;
+    }
+    .textbox-submit-button {
+        width: 2.492rem;
+        height: 2.136rem;
+        background-size: 1.067rem;
+    }
+    .textbox-description {
+        padding-top: 0.711rem;
+        width: 13.180rem;
+    }
+    .footer-first-section {
+        padding: 4.274rem 11.247rem 0.853rem 11.247rem;
+    }
+    .footer-links {
+        padding: 0.996rem 34.698rem 4.986rem 11.247rem;
+    }
+}
+@media (max-width: 767px) {
+    html, body {
+        font-size: calc(2.5vw);
+    }
+    .logo-image{
+        padding-top: 1.299rem;
+        width: 6rem;
+    }
+    .base-left-section-ident {
+        padding-left: 4.697rem;
+    }
+    .phone-image {
+        display: none;
+    }
+    .section-about-us {
+        padding-left: 4.697rem;
+        padding-right: 4.697rem;
+        margin-bottom: 1.253rem;
+    }
+    .banner-content {
+        padding-left: 4.697rem;
+    }
+    .main-banner-img {
+        height: 30rem;
+        width: 150%;
+    }
+    .banner {
+        padding-top: 0;
+        overflow-x: hidden;
+        overflow-y: hidden;
+    }
+    .title {
+        font-size: 3rem;
+        padding-top: 9rem;
+    }
+    .title-description {
+        font-size: 0.9rem;
+        line-height: 1.6rem;
+        width: 19rem;
+    }
+    .subtitle {
+        margin-top: 4rem;
+        margin-bottom: 2.127rem;
+        color: #000000;
+        font-size: 1.944rem;
+        font-weight: 300;
+    }
+    .fsz-large {
+        font-size: 1rem;
+    }
+    .section-about-us {
+        margin-bottom: 2.8rem;
+    }
+    .section-about-us p {
+        padding-right: 0;
+        margin-bottom: 1.2rem;
+        line-height: 1.6rem;
+        color: #959595;
+    }
+    .box-grid {
+        height: 23.758rem;
+    }
+    .box-grid-large {
+        width: 100%;
+        height: 23.758rem;
+    }
+    .box {
+        padding: 1.78rem 0 3.739rem 1.424rem;
+        height: 50%;
+    }
+    .box-title {
+        margin-bottom: 0.711rem;
+    }
+    .box-description {
+        font-size: 1rem;
+        line-height: 1.8rem;
+        width: 11.221rem;
+        height: 3.845rem;
+        overflow-y: hidden;
+        overflow-x: hidden;
+    }
+    .box-description-large {
+        width: 23.939rem;
+        color: #ffffff;
+        font-size: 1rem;
+        font-weight: 400;
+        line-height: 1.8rem;
+        height: 3.845rem;
+        overflow-y: hidden;
+        overflow-x: hidden;
+        z-index: 3;
+        position: relative;
+    }
+    .box-description-large {
+        width: 19.229rem;
+    }
+    .box-link {
+        bottom: 1.78rem;
+        left: 1.424rem;
+        background: none;
+        font-size: 0.8rem;
+    }
+    .section-details {
+        padding: 4rem 4.697rem 4rem 4.697rem;
+    }
+    .details-title {
+        margin-bottom: 0.927rem;
+    }
+    .details-subtitle {
+        display: block;
+        padding-top: 1.2rem;
+        font-size: 0.9rem;
+        line-height: 1.5rem;
+    }
+    .details-description {
+        padding-top: 0.5rem;
+        padding-right: 0;
+        font-size: 1rem;
+        line-height: 1.6rem;
+    }
+    .second-banner-content {
+        padding: 0 0 4rem 0;
+        margin-left: 4.697rem;
+        width: 27.025rem;
+    }
+    .second-banner-text {
+        font-size: 1rem;
+        line-height: 1.5rem;
+        height: 3.1rem;
+        overflow-y: hidden;
+        overflow-x: hidden;
+        margin-bottom: 1.063rem;
+    }
+    .banner-link {
+        font-size: 0.8rem;
+        line-height: 0.8rem;
+        background-image: none;
+    }
+    .reasons-block-title {
+        padding: 4rem 0 0.927rem 4.697rem;
+    }
+    .reasons-description {
+        margin-top: 0.5rem;
+        padding-right: 0;
+        font-size: 1rem;
+        line-height: 1.6rem;
+    }
+    .reasons-content-box {
+        padding: 0 4.697rem 4rem 4.697rem;
+    }
+    .reasons-subtitle {
+        display: block;
+        padding-top: 1.2rem;
+        font-size: 0.9rem;
+        line-height: 1.5rem;
+    }
+    .rates {
+        padding: 4rem 4.697rem 2.405rem 4.697rem;
+    }
+    .rate-box {
+        width: 100%;
+        height: 23rem;
+        padding: 2.393rem 3.723rem 2rem 2.819rem;
+        margin-right: 0;
+        margin-bottom: 1.595rem;
+        background-color: #ffffff;
+        -webkit-box-shadow: 0 0 1.383rem 1px rgba(50, 50, 50, 0.2);
+        -moz-box-shadow:    0 0 1.383rem 1px rgba(50, 50, 50, 0.2);
+        box-shadow:         0 0 1.383rem 1px rgba(50, 50, 50, 0.2);
+    }
+    .rate-box h5 {
+        padding-top: 0.8rem;
+    }
+    .rate-box p {
+        padding-top: 0.8rem;
+        padding-bottom: 0.8rem;
+        font-size: 1rem;
+        line-height: 1.6rem;
+    }
+    .footer-first-section span {
+        display: block;
+        font-size: 0.9rem;
+        padding-bottom: 1rem;
+        padding-top: 1rem;
+    }
+    .footer-description {
+        font-size: 0.9rem;
+        line-height: 1.5rem;
+        width: auto;
+    }
+    .textbox {
+        padding: 0 0 0 0.531rem;
+        width: 14.249rem;
+        height: 2.136rem;
+    }
+    .textbox-submit-button {
+        width: 3.5rem;
+        height: 3.5rem;
+        background-size: 1.067rem;
+    }
+    .textbox-description {
+        padding-top: 0.711rem;
+        width: 19rem;
+        font-size: 0.9rem;
+        line-height: 1.5rem;
+    }
+    .footer-first-section {
+        padding: 3rem 4.697rem 0.853rem 4.697rem;
+    }
+    .textbox {
+        padding: 0 0 0 0.531rem;
+        width: 21.279rem;
+        height: 3.5rem;
+        font-size: 1.063rem;
+        font-weight: 300;
+        color: #a2a1a1;
+        border: none;
+    }
+    .textbox-section-padding {
+        padding-left: 0;
+    }
+    .footer-links {
+        padding: 0.996rem 0 4rem 4.697rem;
+    }
+    .footer-links span {
+        display: block;
+        font-size: 0.9rem;
+        line-height: 1.5rem;
+        padding-bottom: 1.17rem;
+    }
+    .footer-menu {
+        font-size: 0.9rem;
+        line-height: 1.5rem;
+    }
+}
